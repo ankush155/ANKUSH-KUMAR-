@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Cyber Terminal Window / Hex Frame -->
+    <path
+        android:fillColor="#151D2A"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.2"
+        android:pathData="M30,30 L78,30 A4,4 0 0,1 82,34 L82,74 A4,4 0 0,1 78,78 L30,78 A4,4 0 0,1 26,74 L26,34 A4,4 0 0,1 30,30 Z" />
+    <!-- Terminal header dots -->
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M33,36 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0" />
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M40,36 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0" />
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M47,36 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0" />
+    <!-- Command Prompt '>' in neon green -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00FF9D"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M35,49 L46,57 L35,65" />
+    <!-- Terminal Cursor '_' in neon cyan -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M52,65 L66,65" />
+    <!-- Cyber AI lightning / circuit dot -->
+    <path
+        android:fillColor="#00FF9D"
+        android:pathData="M71,45 L75,41 L73,49 L77,47 L70,55 L72,50 Z" />
+</vector>

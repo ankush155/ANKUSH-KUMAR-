@@ -1,0 +1,6 @@
+{
+  "name": "CypherDeck",
+  "description": "Next-gen cyber terminal, ethical hacking toolkit, and AI-powered penetration testing co-pilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
